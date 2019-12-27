@@ -1,2 +1,2 @@
 # CheckPositiveNegative
-Program to check negative or positive numbers
+This program takes a number from the user and checks whether that number is either positive or negative or zero. 
